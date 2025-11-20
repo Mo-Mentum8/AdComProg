@@ -1,14 +1,14 @@
-fruits = ["apple", "banana", "mango", "orange", "grape"]
+fruits = ["mansanas", "saging", "manga", "orange", "ubas"]
 
 print("Original list:", fruits)
 
-fruits.append("pineapple")
+fruits.append("pinya")
 print("After append:", fruits)
 
-fruits.insert(2, "kiwi")
+fruits.insert(2, "santol")
 print("After insert:", fruits)
 
-fruits.remove("banana")
+fruits.remove("orange")
 print("After remove:", fruits)
 
 print("Fruits in reverse order:", fruits[::-1])
